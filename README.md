@@ -1,7 +1,7 @@
 ## Coding Design Patterns most simplified way possible
 
 ### Creational Patterns
- - [ ] Factory Method
+ - [x] Factory Method
  - [ ] Abstract Method
  - [ ] Builder
  - [ ] Prototype
