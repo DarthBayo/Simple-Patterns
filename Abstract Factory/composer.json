@@ -1,0 +1,12 @@
+{
+    "name": "giovani/abstract_factory",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {},
+    "config": {
+        "optimize-autoloader": true
+    }
+}
