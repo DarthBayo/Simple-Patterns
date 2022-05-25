@@ -3,7 +3,7 @@
 ### Creational Patterns
  - [x] Factory Method
  - [x] Abstract Method
- - [ ] Builder
+ - [x] Builder
  - [ ] Prototype
  - [ ] Singleton
 

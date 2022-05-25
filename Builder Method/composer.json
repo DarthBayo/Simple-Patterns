@@ -1,11 +1,11 @@
 {
-    "name": "giovani/abstract_factory",
+    "name": "giovani/builder_method",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
         }
     },
-    "author": [
+    "authors": [
         {
             "name": "Giovani Eduardo",
             "email": "giovaniequisini@gmail.com"
